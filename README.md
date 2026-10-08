@@ -1,8 +1,5 @@
-# github-lk-is-2026-sk2
-Repozitář pro čely předmětu IS 2026 - skupina 2
+# github-fh-is-2026-sk3
+Repozitář pro čely předmětu IS 2026 - skupina 3
 
-Změna provedená na lokále dne 8.10. 2026 13:27. 
-Mám vyklonovány repozitář.
-
-Změna provedena na githubu v čase 13:50
-Provedl jsem synchronizaci z lokálu na Githubu  teď ověřuji opačný postup 
+Změna provedena na lokále dne  8.10. 2026 v 17:05.
+Stav: Mám vyklonovaný repozitář.
